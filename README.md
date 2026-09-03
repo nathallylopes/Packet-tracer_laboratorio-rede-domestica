@@ -1,5 +1,3 @@
-# Packet tracer_laboratorio-rede-domestica
-Simulação de uma rede doméstica utilizando Cisco Packet Tracer
 # Laboratórios de Redes — Cisco Packet Tracer
 
 Repositório criado para documentar meus estudos práticos de **Redes de Computadores** utilizando o **Cisco Packet Tracer**.
