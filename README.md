@@ -27,7 +27,6 @@ A topologia contém dispositivos como:
 -  Computador do quarto
 -  Conexão com a Internet
 
-### Imagem da topologia
 
 ![Topologia da Rede Doméstica](./Rede_domestica)
 
