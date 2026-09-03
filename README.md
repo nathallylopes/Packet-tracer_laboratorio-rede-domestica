@@ -1,4 +1,4 @@
-# lab-rede-domestica
+# Packet tracer_laboratorio-rede-domestica
 Simulação de uma rede doméstica utilizando Cisco Packet Tracer
 # Laboratórios de Redes — Cisco Packet Tracer
 
