@@ -29,7 +29,7 @@ A topologia contém dispositivos como:
 
 ### Imagem da topologia
 
-![Topologia da Rede Doméstica](./laboratorio-01-rede-domestica/topologia.png)
+![Topologia da Rede Doméstica](./Rede_domestica)
 
 ## Conceitos praticados
 
