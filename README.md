@@ -28,7 +28,7 @@ A topologia contém dispositivos como:
 -  Conexão com a Internet
 
 
-![Topologia da Rede Doméstica](./Rede_domestica)
+![Topologia da Rede Doméstica](./Rede_domestica.png)
 
 ## Conceitos praticados
 
